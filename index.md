@@ -1,16 +1,28 @@
-# Welcome to your Jupyter Book
+# Welcome to your Model selection openbook
 
-This is a small sample book to give you a feel for how book content is
-structured.
+This is a guide page for the book to give you a short introdution about this book
+
 
 :::{note}
-Here is a note!
+We will start at model-selection chapter for your basic theoretical learning about model selection
 :::
 
-And here is a code block:
+You can click here to study the learning
 
-```
-e = mc^2
-```
+[For your first learning](/book/model-selection.ipynb)  
 
-Check out the content pages bundled with this sample book to see more.
+Then we'll continue the Assignment for you to study and practice
+
+Check out the content pages on the left 
+
+Or you can click the link down below
+
+[Assignment 1](/book/lasso-and-ridge-regression.ipynb)  
+
+[Assignment 2](/book/regularized-linear-models.ipynb)  
+
+[Assignment 3](/book/learning-curve-to-identify-overfit-underfit.ipynb)  
+
+[Assignment 4](/book/dropout-and-batch-normalization.ipynb)  
+
+Let's get started NOW!
