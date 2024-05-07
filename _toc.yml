@@ -8,6 +8,7 @@ chapters:
   - file: book/lasso-and-ridge-regression
   - file: book/learning-curve-to-identify-overfit-underfit
   - file: book/dropout-and-batch-normalization
+  - file: book/regularized-linear-models
 
 # Or you organize the TOC by parts
 
