@@ -4,9 +4,10 @@
 format: jb-book
 root: index
 chapters:
-  - file: book/markdown
-  - file: book/notebooks
-  - file: book/bibliography
+  - file: book/model-selection
+  - file: book/lasso-and-ridge-regression
+  - file: book/learning-curve-to-identify-overfit-underfit
+  - file: book/dropout-and-batch-normalization
 
 # Or you organize the TOC by parts
 
